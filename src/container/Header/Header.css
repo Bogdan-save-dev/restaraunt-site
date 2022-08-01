@@ -14,3 +14,18 @@
 .app__wrapper__img img {
     width: 80%;
 }
+
+@media screen and (max-width: 950px) {
+    .header-h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .app__wrapper_info p {
+        font-size: 10px;
+        line-height: 2;
+
+    }
+}
+
+@media screen and (max-width: 650px) {}
