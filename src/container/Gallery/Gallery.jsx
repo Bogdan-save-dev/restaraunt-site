@@ -47,7 +47,7 @@ const Gallery = () => {
           {imagesArr.map((image, idx) => (
             <div
               key={image + idx}
-              className="gallery__imaages-card flex__center"
+              className="gallery__images-card flex__center"
             >
               <img src={image} alt="gallery image" />
               <BsInstagram className="gallery__image-icon" />
