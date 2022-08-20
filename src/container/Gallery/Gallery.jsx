@@ -32,7 +32,7 @@ const Gallery = () => {
     <div className="gallery flex__center">
       <div className="gallery__content">
         <SubHeading title="Instagram" />
-        <h1 className="headtext__cormorant">Photo Gallery</h1>
+        <h2 className="headtext__cormorant">Photo Gallery</h2>
         <p className="p__opensans" style={{ color: '#aaa', marginTop: '2rem' }}>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora
           cupiditate magnam modi aut qui, sapiente rem ea itaque magni

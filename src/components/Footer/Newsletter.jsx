@@ -7,7 +7,7 @@ const Newsletter = () => (
   <div className="newsletter">
     <div className="newsletter__heading">
       <SubHeading title="Newsletter" />
-      <h1 className="headtext__cormorant">Subscribe To Our Newsletter</h1>
+      <h2 className="headtext__cormorant">Subscribe To Our Newsletter</h2>
       <p className="p__opensans">And never miss latest updates!</p>
     </div>
 

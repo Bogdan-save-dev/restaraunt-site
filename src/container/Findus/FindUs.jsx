@@ -6,9 +6,9 @@ const FindUs = () => (
   <div className="app__bg app__wrapper section__padding" id="contact">
     <div className="app__wrapper_info">
       <SubHeading title="Contact" />
-      <h1 className="headtext__cormorant" style={{ marginBottom: '3rem' }}>
+      <h2 className="headtext__cormorant" style={{ marginBottom: '3rem' }}>
         Find us
-      </h1>
+      </h2>
       <div className="app__wrapper-content">
         <p className="p__opensans">Adress, Street, city, country</p>
         <p

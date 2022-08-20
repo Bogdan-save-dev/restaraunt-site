@@ -8,7 +8,7 @@ const Laurels = () => (
   <div className="laurels app__bg app__wrapper section__padding" id="awards">
     <div className="app__wrapper_info">
       <SubHeading title="Awards & recognition" />
-      <h1 className="headtext__cormorant">Our Laurels</h1>
+      <h2 className="headtext__cormorant">Our Laurels</h2>
 
       <div className="laurels__award">
         {data.awards.map((item, idx) => (
